@@ -10,7 +10,7 @@ def word_ladder(start_word, end_word, dictionary_file='words5.dict'):
     3. elements at index i and i+1 are `_adjacent`
     4. all elements are entries in the `dictionary_file` file
 
-    For example, running the command
+    For example, running the comma
     ```
     word_ladder('stone','money')
     ```
